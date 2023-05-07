@@ -6,6 +6,7 @@
   align-items: center;
   gap: 3.75rem;
   border-radius: 1rem;
+  z-index: 3;
 
   width: var(--card-width);
   height: var(--card-height);
