@@ -39,7 +39,7 @@ O projeto _Card de um personagem_ foi realizado como parte do #18 desafio #BORAC
 
 O desafio foi a criação de uma página com lista de contatos e campo de busca, o layout proposto está disponível em <a href="#-layout-figma">Layout</a>.
 
-_<h2 align="center" ><a href="https://component-datepicker.vercel.app/" target="_blank">Visite o projeto online</a></h2>_
+_<h2 align="center" ><a href="https://character-card-cyan.vercel.app/" target="_blank">Visite o projeto online</a></h2>_
 
 ## 🔖 Layout
 
