@@ -1,5 +1,5 @@
 .name {
-  font-family: 'Source Sans Pro';
+  font-family: "Source Sans Pro";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -20,4 +20,10 @@
   font-weight: bold;
   text-align: center;
   -webkit-text-stroke: 1px #433f8b;
+}
+
+@media only screen and (max-width: 500px) {
+  .name {
+    font-size: 20px;
+  }
 }
